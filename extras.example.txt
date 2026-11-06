@@ -1,0 +1,12 @@
+# Ejemplo de archivo extras.txt
+#
+# Para usarlo: copia este archivo, renombra la copia como "extras.txt"
+# (en la misma carpeta que exportador.py) y reemplaza los juegos de ejemplo
+# por los que la API de Steam no te entrega en tu lista.
+#
+# Un juego por línea, tal como aparece en tu biblioteca.
+# Las líneas que empiezan con # se ignoran.
+
+Core Keeper (Demo)
+Once Human
+tModLoader

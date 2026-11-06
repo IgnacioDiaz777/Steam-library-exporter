@@ -1,0 +1,12 @@
+# Archivos personales de cada usuario
+mi_biblioteca_steam.txt
+extras.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
